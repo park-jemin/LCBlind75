@@ -26,5 +26,22 @@ int removeElement(int* nums, int numsSize, int val){
         } else ++k; 
     }
     
-    return i;
+    return k;
+}
+
+
+
+// Can also just swap and check like this:
+int removeElement2(int* nums, int n, int val){
+
+    int k = 0;
+    
+    while (k < n) {
+        if (nums[k] == val) 
+        	nums[k] = nums[--n];
+        else
+        	++k;
+    }
+    
+    return k;
 }

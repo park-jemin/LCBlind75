@@ -28,7 +28,7 @@ Repo for [LC Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-Li
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 ### Matrix
-
+[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
 ### String
 

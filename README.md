@@ -33,6 +33,8 @@ Repo for [LC Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-Li
 ### String
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
 
 ### Tree
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)

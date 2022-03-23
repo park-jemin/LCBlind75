@@ -31,10 +31,13 @@ Repo for [LC Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-Li
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
 ### String
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 
 ### Tree
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+[100. Same Tree](https://leetcode.com/problems/same-tree/)
 
 ### Heap
 
